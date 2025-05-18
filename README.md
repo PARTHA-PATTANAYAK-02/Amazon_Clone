@@ -10,9 +10,9 @@
 
 ## 📸 Screenshots
 
-| header | | footer |
-| -------------------------------- | | -------------------------------- |
-| ![Screenshots](./Screenshot.png) | || ![Screenshots](./Screenshot1.png) |
+| Dark Mode                      | Light Mode                       |
+| ------------------------------ | -------------------------------- |
+| ![Dark Mode](./Screenshot.png) | ![Light Mode](./Screenshot1.png) |
 
 ---
 
